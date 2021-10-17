@@ -1,4 +1,4 @@
-# Visualization-and-Clustering-I
+# Visualization-and-Clustering
 
 This repository have only one file that contains two different cases. 
 The beginning of the code is about query and visualization, the end of it is about clustering. 
